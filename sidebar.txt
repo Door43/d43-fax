@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[fax:home|Door43 (fax)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-fax|d43-fax repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-fax/archive/master.zip|d43-fax.zip]]
+
+**Recent Changes**
+{{changes>ns = fax}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/fax|Ethnologue data]]
+
